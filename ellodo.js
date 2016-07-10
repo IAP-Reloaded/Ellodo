@@ -1,7 +1,7 @@
 var input = document.getElementById("ellodo").value;
 var result = "Hello, World";
-var version = "1.0.1"
-var version-name = "The Hey, We Forgot to Implement a Way for People to Use It! So That's What This Update Basically Did! Remember to Use the ID ellodo Too. Thanks and Goodbye. Update"
+var version = "1.0.2"
+var versionname = "The Operation Dashfall Update"
 
 // Modifier Effects
 
