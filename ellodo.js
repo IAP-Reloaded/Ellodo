@@ -1,6 +1,7 @@
-var input = "<breakeverything>";
+var input = document.getElementById("ellodo").value;
 var result = "Hello, World";
-var version = "1.0.0"
+var version = "1.0.1"
+var version-name = "The Hey, We Forgot to Implement a Way for People to Use It! So That's What This Update Basically Did! Remember to Use the ID ellodo Too. Thanks and Goodbye. Update"
 
 // Modifier Effects
 
@@ -35,6 +36,9 @@ if (input.indexOf('<stopputtingthosespacesthere>') > -1) {
   var result = version + "ok, fine";
 }
 if (input.indexOf('<justputthevariablecalledversion>') > -1) {
+  var result = version;
+}
+if (input.indexOf('<versionasanamebecauseitismuchmorehumorousthantheplainnumberversionoftheversionvariablealsothisisprettylongerandlongerthantheotherlongonewhichwasabouttheversionnameorsomething.idontremember.whyarethere2periodsinthisfunction?now a space, comma, question mark, and numbers? Wow! Uppercase! Exclamation marcs! Misspellings!!11one111111!!!11!!11!eleven!12121122222two222222twonrtyoen es>') > -1) {
   var result = version;
 }
 if (input.indexOf('<thankyou>') > -1) {
